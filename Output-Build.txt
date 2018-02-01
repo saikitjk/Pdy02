@@ -1,0 +1,9 @@
+﻿------ Rebuild All started: Project: ContosoUniversity, Configuration: Release Any CPU ------
+  ContosoUniversity -> c:\winnt\profiles\everyone\desktop\c02\ContosoUniversity\bin\ContosoUniversity.dll
+------ Rebuild All started: Project: ContosoUniversity, Configuration: Debug Any CPU ------
+  ContosoUniversity -> c:\winnt\profiles\everyone\desktop\c02\ContosoUniversity\bin\ContosoUniversity.dll
+------ Rebuild All started: Project: ContosoUniversity.Tests, Configuration: Release Any CPU ------
+  ContosoUniversity.Tests -> c:\winnt\profiles\everyone\desktop\c02\ContosoUniversity.Tests\bin\Release\ContosoUniversity.Tests.dll
+------ Rebuild All started: Project: ContosoUniversity.Tests, Configuration: Debug Any CPU ------
+  ContosoUniversity.Tests -> c:\winnt\profiles\everyone\desktop\c02\ContosoUniversity.Tests\bin\Debug\ContosoUniversity.Tests.dll
+========== Rebuild All: 4 succeeded, 0 failed, 0 skipped ==========
